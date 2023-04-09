@@ -5,4 +5,4 @@ console.log(+a +b);
 
 console.log(a + b);
 // export
-// ({b.log (b))
+// (b.log ("b"))

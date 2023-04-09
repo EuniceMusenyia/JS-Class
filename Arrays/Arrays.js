@@ -21,7 +21,8 @@ num.shift();
 console.log(num);
 
 // given an array of numbers x return an array even where every item in x is multiplied by 5
-// (declare array x ,loop through array x, multiply each item by 5 ,create array even and push items multiplied.)
+// (declare array x ,loop through array x, multiply each item by 5 ,
+// create array even and push items multiplied.)
  let x = [5, 8, 2, 87, 33, 67];
  let even = x.map(function(item){
     return item * 5
@@ -53,3 +54,4 @@ let [a, b, ...c] =x;
 console.log({a});
 console.log({b});
 console.log({c});
+
