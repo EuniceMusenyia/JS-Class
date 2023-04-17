@@ -43,3 +43,17 @@ else{
     console.log("and false", false);
 }
 
+
+// Logical operator 0R - ||- Results to true if either one or all operands is true 
+// else false if both are false
+
+    // const nums = 40;
+    // const nums2 = 30
+
+    // if (nums>nums2 || age ===age2){
+    //     console.log(false);
+    // }
+
+    // else{
+    //     console.log(true);
+    // }
