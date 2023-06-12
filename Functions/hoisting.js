@@ -7,4 +7,5 @@ console.log(a);
     console.log("Hello");
  }
 
+ //cloning- get the exact copy of the cloned object
  
